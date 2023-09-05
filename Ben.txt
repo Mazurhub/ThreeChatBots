@@ -1,0 +1,5 @@
+Hey,
+My name is Ben. I hava cat. His name is jerry. I love my cat.
+
+Query: Does Ben have a cat?
+Answer: Yes, Ben have a cat.
